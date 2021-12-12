@@ -1,2 +1,2 @@
 # Opencv-Basics
-All the OpenCV library basics code
+Going through all the basic of OpenCV and practicing. Have been following tutorials from FreeCodeCamp.org
